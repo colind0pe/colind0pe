@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm colind0pe</h1>
+<h3 align="center">Cyber Security/BugHunter@Eth0Team</h3>
 
-<!--
-**colind0pe/colind0pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 关于我
 
-Here are some ideas to get you started:
+- `Web安全`&&`漏洞挖掘`&&`红蓝对抗`
+- Team：`Eth0Team`
+- Blog： [colind0pe.top](https://colind0pe.top)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">数据:</h3>
+<p align="left">
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colind0pe&show_icons=true&locale=en&layout=compact" alt="colind0pe" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=colind0pe&show_icons=true&locale=en" alt="colind0pe" /></p>
+
