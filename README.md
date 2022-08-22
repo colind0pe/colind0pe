@@ -11,8 +11,5 @@
 <p align="left">
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colind0pe&show_icons=true&locale=en&layout=compact" alt="colind0pe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=colind0pe&show_icons=true&locale=en" alt="colind0pe" /></p>
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=colind0pe&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="colind0pe's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colind0pe&layout=compact&theme=graywhite&hide_border=true" /> |
+| ------------- | ------------- |
